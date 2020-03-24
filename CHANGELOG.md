@@ -1,3 +1,11 @@
+v5.4.0
+----------
+ * touch README for 5.4 release
+
+v5.2.0
+----------
+ * Sync release with RapidPro 5.2
+
 v2.0.0
 ----------
  * Ignore value of is_test on contacts
